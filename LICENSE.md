@@ -84,3 +84,18 @@ resulting work is called a &ldquo;modified version&rdquo; of the earlier work or
 work &ldquo;based on&rdquo; the earlier work.
 
 A &ldquo;covered work&rdquo; means either the unmodified Program or a work based on
+the Program.
+
+To &ldquo;propagate&rdquo; a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for infringement under
+applicable copyright law, except executing it on a computer or modifying a private
+copy. Propagation includes copying, distribution (with or without modification),
+making available to the public, and in some countries other activities as well.
+
+To &ldquo;convey&rdquo; a work means any kind of propagation that enables other
+parties to make or receive copies. Mere interaction with a user through a computer
+network, with no transfer of a copy, is not conveying.
+
+An interactive user interface displays &ldquo;Appropriate Legal Notices&rdquo; to the
+extent that it includes a convenient and prominently visible feature that (1)
+displays an appropriate copyright notice, and (2) tells the user that there is no
