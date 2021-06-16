@@ -64,3 +64,23 @@ applied to a free program could make it effectively proprietary. To prevent this
 GPL assures that patents cannot be used to render the program non-free.
 
 The precise terms and conditions for copying, distribution and modification follow.
+
+## TERMS AND CONDITIONS
+
+### 0. Definitions.
+
+&ldquo;This License&rdquo; refers to version 3 of the GNU General Public License.
+
+&ldquo;Copyright&rdquo; also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+&ldquo;The Program&rdquo; refers to any copyrightable work licensed under this
+License. Each licensee is addressed as &ldquo;you&rdquo;. &ldquo;Licensees&rdquo; and
+&ldquo;recipients&rdquo; may be individuals or organizations.
+
+To &ldquo;modify&rdquo; a work means to copy from or adapt all or part of the work in
+a fashion requiring copyright permission, other than the making of an exact copy. The
+resulting work is called a &ldquo;modified version&rdquo; of the earlier work or a
+work &ldquo;based on&rdquo; the earlier work.
+
+A &ldquo;covered work&rdquo; means either the unmodified Program or a work based on
