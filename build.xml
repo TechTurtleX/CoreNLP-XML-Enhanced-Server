@@ -1,2 +1,2 @@
 <project name="StanfordCoreNLPXMLServer">
-    <property name="sr
+    <property name="src.dir"     value="
