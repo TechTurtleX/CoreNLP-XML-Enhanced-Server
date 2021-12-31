@@ -1,4 +1,4 @@
 <project name="StanfordCoreNLPXMLServer">
     <property name="src.dir"     value="src"/>
 
-    <property name="bui
+    <property name="build.dir"   va
