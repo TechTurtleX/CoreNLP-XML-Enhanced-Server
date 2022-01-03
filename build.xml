@@ -2,4 +2,4 @@
     <property name="src.dir"     value="src"/>
 
     <property name="build.dir"   value="build"/>
-    <property name="classes.dir" v
+    <property name="classes.dir" value="${b
