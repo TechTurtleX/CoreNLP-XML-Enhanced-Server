@@ -3,4 +3,4 @@
 
     <property name="build.dir"   value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
-    <propert
+    <property name="jar.dir"
