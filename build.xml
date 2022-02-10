@@ -6,4 +6,4 @@
     <property name="jar.dir"     value="${build.dir}/jar"/>
     <property name="lib.dir"     value="lib"/>
 
-    <p
+    <property name="main-
