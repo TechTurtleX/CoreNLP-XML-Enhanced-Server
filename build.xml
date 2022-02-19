@@ -7,4 +7,6 @@
     <property name="lib.dir"     value="lib"/>
 
     <property name="main-class"  value="StanfordCoreNLPXMLServer"/>
-    <property name="port"  value
+    <property name="port"  value=""/>
+
+    <pa
