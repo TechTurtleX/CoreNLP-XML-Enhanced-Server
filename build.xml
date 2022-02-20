@@ -9,4 +9,4 @@
     <property name="main-class"  value="StanfordCoreNLPXMLServer"/>
     <property name="port"  value=""/>
 
-    <pa
+    <path id="classpath
