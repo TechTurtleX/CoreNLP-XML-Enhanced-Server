@@ -10,4 +10,4 @@
     <property name="port"  value=""/>
 
     <path id="classpath">
-        <fileset dir=
+        <fileset dir="${lib.dir}" i
