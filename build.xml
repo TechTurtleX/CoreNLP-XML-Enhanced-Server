@@ -10,4 +10,4 @@
     <property name="port"  value=""/>
 
     <path id="classpath">
-        <fileset dir="${lib.dir}" i
+        <fileset dir="${lib.dir}" includes="**/*.ja
