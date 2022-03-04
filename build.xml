@@ -13,4 +13,4 @@
         <fileset dir="${lib.dir}" includes="**/*.jar"/>
     </path>
 
-    <target nam
+    <target name="clean" desc
