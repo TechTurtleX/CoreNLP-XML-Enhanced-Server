@@ -13,4 +13,5 @@
         <fileset dir="${lib.dir}" includes="**/*.jar"/>
     </path>
 
-    <target name="clean" description="Delete all generated 
+    <target name="clean" description="Delete all generated files.">
+     
