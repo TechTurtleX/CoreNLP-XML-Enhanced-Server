@@ -15,4 +15,6 @@
 
     <target name="clean" description="Delete all generated files.">
         <delete dir="${build.dir}"/>
-    </targe
+    </target>
+
+    <targe
