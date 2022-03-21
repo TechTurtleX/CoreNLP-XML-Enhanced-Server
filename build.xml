@@ -17,4 +17,4 @@
         <delete dir="${build.dir}"/>
     </target>
 
-    <targe
+    <target name="libs" de
