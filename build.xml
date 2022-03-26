@@ -17,4 +17,4 @@
         <delete dir="${build.dir}"/>
     </target>
 
-    <target name="libs" depends="simple, stanford" description="Download and compile all require
+    <target name="libs" depends="simple, stanford" description="Download and compile all required 3rd party libr
