@@ -20,4 +20,4 @@
     <target name="libs" depends="simple, stanford" description="Download and compile all required 3rd party libraries." />
 
     <target name="simple">
-        <get src="http://downloads.sourceforge.net/project/simpleweb/simpleweb/5.1.6/simple-5.1.6.zip" des
+        <get src="http://downloads.sourceforge.net/project/simpleweb/simpleweb/5.1.6/simple-5.1.6.zip" dest="simple-5.1.6.
