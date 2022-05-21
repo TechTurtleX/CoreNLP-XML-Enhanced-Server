@@ -23,4 +23,4 @@
         <get src="http://downloads.sourceforge.net/project/simpleweb/simpleweb/5.1.6/simple-5.1.6.zip" dest="simple-5.1.6.zip" />
         <unzip src="simple-5.1.6.zip" dest="." />
         <ant dir="simple-5.1.6" target="build" />
-        <move file="simple-5.1.6/jar/simple-5.1.6.jar" t
+        <move file="simple-5.1.6/jar/simple-5.1.6.jar" todir="${lib.
