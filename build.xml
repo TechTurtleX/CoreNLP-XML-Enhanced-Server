@@ -28,4 +28,4 @@
         <delete file="simple-5.1.6.zip" />
     </target>
 
-    <t
+    <target name="stan
