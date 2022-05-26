@@ -26,4 +26,6 @@
         <move file="simple-5.1.6/jar/simple-5.1.6.jar" todir="${lib.dir}" />
         <delete dir="simple-5.1.6" />
         <delete file="simple-5.1.6.zip" />
-    </t
+    </target>
+
+    <t
