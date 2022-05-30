@@ -28,4 +28,5 @@
         <delete file="simple-5.1.6.zip" />
     </target>
 
-    <target name="stan
+    <target name="stanford">
+        <
