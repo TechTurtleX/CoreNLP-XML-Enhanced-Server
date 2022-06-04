@@ -29,4 +29,5 @@
     </target>
 
     <target name="stanford">
-        <get src="http://nlp.stanford.edu/software/stanford-corenlp-full-2013-06-20.zip" dest="stanford-corenlp-full-2013-0
+        <get src="http://nlp.stanford.edu/software/stanford-corenlp-full-2013-06-20.zip" dest="stanford-corenlp-full-2013-06-20.zip" />
+       
