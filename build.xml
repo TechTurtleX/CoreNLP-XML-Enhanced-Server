@@ -34,4 +34,5 @@
         <move todir="${lib.dir}">
             <fileset dir="stanford-corenlp-full-2013-06-20">
                 <include name="**/*.jar" />
-            
+            </fileset>
+    
