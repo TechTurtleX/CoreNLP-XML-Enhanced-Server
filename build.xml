@@ -36,3 +36,4 @@
                 <include name="**/*.jar" />
             </fileset>
         </move>
+        <delet
