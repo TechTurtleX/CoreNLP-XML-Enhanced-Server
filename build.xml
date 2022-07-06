@@ -36,4 +36,5 @@
                 <include name="**/*.jar" />
             </fileset>
         </move>
-        <delete dir="stanford-corenlp-full-201
+        <delete dir="stanford-corenlp-full-2013-06-20" />
+   
