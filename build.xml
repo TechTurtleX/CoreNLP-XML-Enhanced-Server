@@ -37,4 +37,4 @@
             </fileset>
         </move>
         <delete dir="stanford-corenlp-full-2013-06-20" />
-        <delete f
+        <delete file="stanford-cor
