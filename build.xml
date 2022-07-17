@@ -38,4 +38,6 @@
         </move>
         <delete dir="stanford-corenlp-full-2013-06-20" />
         <delete file="stanford-corenlp-full-2013-06-20.zip" />
- 
+    </target>
+
+    <ta
