@@ -40,4 +40,4 @@
         <delete file="stanford-corenlp-full-2013-06-20.zip" />
     </target>
 
-    <ta
+    <target name="comp
