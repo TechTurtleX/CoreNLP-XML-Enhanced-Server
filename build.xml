@@ -40,4 +40,5 @@
         <delete file="stanford-corenlp-full-2013-06-20.zip" />
     </target>
 
-    <target name="comp
+    <target name="compile">
+        <mkdir
