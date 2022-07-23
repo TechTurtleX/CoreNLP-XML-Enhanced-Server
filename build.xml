@@ -41,4 +41,5 @@
     </target>
 
     <target name="compile">
-        <mkdir dir="${classes.dir
+        <mkdir dir="${classes.dir}"/>
+      
