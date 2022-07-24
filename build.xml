@@ -42,4 +42,4 @@
 
     <target name="compile">
         <mkdir dir="${classes.dir}"/>
-        <javac srcdir="${src.dir}" destdir="${classes
+        <javac srcdir="${src.dir}" destdir="${classes.dir}" includeant
