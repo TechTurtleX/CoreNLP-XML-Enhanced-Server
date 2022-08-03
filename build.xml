@@ -45,4 +45,4 @@
         <javac srcdir="${src.dir}" destdir="${classes.dir}" includeantruntime="false" classpathref="classpath" />
     </target>
 
-    <target name="jar" dep
+    <target name="jar" depends="compile">
