@@ -46,4 +46,5 @@
     </target>
 
     <target name="jar" depends="compile">
-        <mkdir dir="${jar.dir}"/
+        <mkdir dir="${jar.dir}"/>
+        <jar dest
