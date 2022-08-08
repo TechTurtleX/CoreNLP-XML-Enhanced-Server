@@ -47,4 +47,5 @@
 
     <target name="jar" depends="compile">
         <mkdir dir="${jar.dir}"/>
-        <jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${cla
+        <jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}">
+      
