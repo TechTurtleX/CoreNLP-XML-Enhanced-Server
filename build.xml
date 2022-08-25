@@ -49,4 +49,4 @@
         <mkdir dir="${jar.dir}"/>
         <jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}">
             <manifest>
-                <attribute name="Main-Class" value
+                <attribute name="Main-Class" value="${main-class}"/>
