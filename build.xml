@@ -51,4 +51,5 @@
             <manifest>
                 <attribute name="Main-Class" value="${main-class}"/>
             </manifest>
-            <zipgroupfileset dir="${lib.dir}" includes="**/*.
+            <zipgroupfileset dir="${lib.dir}" includes="**/*.jar"/>
+        </j
