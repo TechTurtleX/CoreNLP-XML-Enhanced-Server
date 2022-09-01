@@ -53,4 +53,6 @@
             </manifest>
             <zipgroupfileset dir="${lib.dir}" includes="**/*.jar"/>
         </jar>
-    </tar
+    </target>
+
+    <target
