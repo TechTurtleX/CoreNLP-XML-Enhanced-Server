@@ -55,4 +55,4 @@
         </jar>
     </target>
 
-    <target
+    <target name="run" depends=
