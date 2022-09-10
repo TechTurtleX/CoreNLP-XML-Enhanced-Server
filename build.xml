@@ -57,4 +57,4 @@
 
     <target name="run" depends="jar">
         <java jar="${jar.dir}/${ant.project.name}.jar" fork="true" maxmemory="1024m">
-       
+            <arg value=
