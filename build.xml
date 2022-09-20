@@ -62,4 +62,4 @@
     </target>
 
     <target name="test">
-        <java 
+        <java jar="${jar.dir}/${ant
