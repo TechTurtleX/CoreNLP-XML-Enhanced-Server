@@ -1,3 +1,3 @@
 /*
     Stanford CoreNLP XML Server
-    Copy
+    Copyright (C) 2013 Nie
