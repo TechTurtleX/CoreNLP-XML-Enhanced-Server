@@ -2,4 +2,5 @@
     Stanford CoreNLP XML Server
     Copyright (C) 2013 Niels Lohmann
 
-    This program is free software: you can redistribute it and/or m
+    This program is free software: you can redistribute it and/or modify
+    it u
