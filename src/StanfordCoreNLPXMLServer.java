@@ -7,4 +7,4 @@
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    This program is distribut
+    This program is distributed in the hope tha
