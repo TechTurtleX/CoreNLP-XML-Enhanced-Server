@@ -8,4 +8,4 @@
     (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,
-    but WIT
+    but WITHOUT ANY WARR
