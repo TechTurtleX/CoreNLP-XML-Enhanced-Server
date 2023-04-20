@@ -37,4 +37,5 @@ import org.simpleframework.transport.Server;
 import org.simpleframework.transport.connect.Connection;
 import org.simpleframework.transport.connect.SocketConnection;
 
-public class StanfordCoreNLPXMLServer implements Co
+public class StanfordCoreNLPXMLServer implements Container {
+    private
