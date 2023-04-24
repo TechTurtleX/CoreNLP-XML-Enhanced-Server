@@ -39,4 +39,4 @@ import org.simpleframework.transport.connect.SocketConnection;
 
 public class StanfordCoreNLPXMLServer implements Container {
     private static StanfordCoreNLP pipeline;
-    p
+    private static i
