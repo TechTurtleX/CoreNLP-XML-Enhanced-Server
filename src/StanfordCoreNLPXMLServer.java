@@ -39,4 +39,5 @@ import org.simpleframework.transport.connect.SocketConnection;
 
 public class StanfordCoreNLPXMLServer implements Container {
     private static StanfordCoreNLP pipeline;
-    private static i
+    private static int port = 8080;
+   
