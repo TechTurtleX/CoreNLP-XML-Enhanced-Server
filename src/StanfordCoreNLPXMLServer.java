@@ -40,4 +40,4 @@ import org.simpleframework.transport.connect.SocketConnection;
 public class StanfordCoreNLPXMLServer implements Container {
     private static StanfordCoreNLP pipeline;
     private static int port = 8080;
-    private static final Logger l
+    private static final Logger log = Logger
