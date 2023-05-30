@@ -40,4 +40,5 @@ import org.simpleframework.transport.connect.SocketConnection;
 public class StanfordCoreNLPXMLServer implements Container {
     private static StanfordCoreNLP pipeline;
     private static int port = 8080;
-    private static final Logger log = Logger.getLogger( StanfordCoreNLPXMLServ
+    private static final Logger log = Logger.getLogger( StanfordCoreNLPXMLServer.class.getName() );
+  
