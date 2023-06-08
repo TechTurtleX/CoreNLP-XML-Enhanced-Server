@@ -41,4 +41,4 @@ public class StanfordCoreNLPXMLServer implements Container {
     private static StanfordCoreNLP pipeline;
     private static int port = 8080;
     private static final Logger log = Logger.getLogger( StanfordCoreNLPXMLServer.class.getName() );
-  
+    private static int total_reque
