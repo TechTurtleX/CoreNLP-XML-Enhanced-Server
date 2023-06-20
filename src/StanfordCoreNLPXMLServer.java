@@ -43,4 +43,5 @@ public class StanfordCoreNLPXMLServer implements Container {
     private static final Logger log = Logger.getLogger( StanfordCoreNLPXMLServer.class.getName() );
     private static int total_requests = 0;
 
-    // an interface to the Stanford 
+    // an interface to the Stanford Core NLP
+    p
