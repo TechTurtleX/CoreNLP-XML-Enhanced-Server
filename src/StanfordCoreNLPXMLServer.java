@@ -44,4 +44,5 @@ public class StanfordCoreNLPXMLServer implements Container {
     private static int total_requests = 0;
 
     // an interface to the Stanford Core NLP
-    public String parse(String s) throws java.io.I
+    public String parse(String s) throws java.io.IOException {
+        
