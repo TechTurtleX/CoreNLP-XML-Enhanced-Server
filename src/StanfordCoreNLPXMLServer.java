@@ -47,4 +47,5 @@ public class StanfordCoreNLPXMLServer implements Container {
     public String parse(String s) throws java.io.IOException {
         Annotation annotation = new Annotation(s);
         pipeline.annotate(annotation);
-        StringWriter sb = new Str
+        StringWriter sb = new StringWriter();
+  
