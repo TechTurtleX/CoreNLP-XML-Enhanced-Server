@@ -48,4 +48,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         Annotation annotation = new Annotation(s);
         pipeline.annotate(annotation);
         StringWriter sb = new StringWriter();
-        pipeline.xmlP
+        pipeline.xmlPrint(annotation,
