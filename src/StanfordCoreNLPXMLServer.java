@@ -49,4 +49,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         pipeline.annotate(annotation);
         StringWriter sb = new StringWriter();
         pipeline.xmlPrint(annotation, sb);
-       
+        return sb.toStr
