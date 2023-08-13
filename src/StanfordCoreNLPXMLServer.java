@@ -52,4 +52,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         return sb.toString();
     }
 
-   
+    public void handle(R
