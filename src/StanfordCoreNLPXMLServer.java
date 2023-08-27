@@ -52,4 +52,6 @@ public class StanfordCoreNLPXMLServer implements Container {
         return sb.toString();
     }
 
-    public void handle(Request request, Response response) 
+    public void handle(Request request, Response response) {
+        try {
+          
