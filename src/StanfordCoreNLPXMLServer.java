@@ -55,4 +55,4 @@ public class StanfordCoreNLPXMLServer implements Container {
     public void handle(Request request, Response response) {
         try {
             int request_number = ++total_requests;
-            log
+            log.info("Reques
