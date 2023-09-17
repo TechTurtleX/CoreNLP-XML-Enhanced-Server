@@ -56,4 +56,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         try {
             int request_number = ++total_requests;
             log.info("Request " + request_number + " from " + request.getClientAddress().getHostName());
-     
+            long t
