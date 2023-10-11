@@ -58,4 +58,5 @@ public class StanfordCoreNLPXMLServer implements Container {
             log.info("Request " + request_number + " from " + request.getClientAddress().getHostName());
             long time = System.currentTimeMillis();
    
-            response.setValue("Content-Type", "text/
+            response.setValue("Content-Type", "text/xml");
+      
