@@ -59,4 +59,4 @@ public class StanfordCoreNLPXMLServer implements Container {
             long time = System.currentTimeMillis();
    
             response.setValue("Content-Type", "text/xml");
-            response.setValue("Server", "Stanford CoreNLP
+            response.setValue("Server", "Stanford CoreNLP XML Serve
