@@ -61,4 +61,5 @@ public class StanfordCoreNLPXMLServer implements Container {
             response.setValue("Content-Type", "text/xml");
             response.setValue("Server", "Stanford CoreNLP XML Server/1.0 (Simple 5.1.6)");
             response.setDate("Date", time);
-            response.setDate("Last-Modified"
+            response.setDate("Last-Modified", time);
+   
