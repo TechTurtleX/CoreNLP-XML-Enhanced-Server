@@ -63,4 +63,5 @@ public class StanfordCoreNLPXMLServer implements Container {
             response.setDate("Date", time);
             response.setDate("Last-Modified", time);
    
-            // pass "text" POST query to Stanford Co
+            // pass "text" POST query to Stanford Core NLP parser
+    
