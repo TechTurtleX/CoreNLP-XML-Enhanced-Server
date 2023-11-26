@@ -66,4 +66,5 @@ public class StanfordCoreNLPXMLServer implements Container {
             // pass "text" POST query to Stanford Core NLP parser
             String text = request.getQuery().get("text");  
             PrintStream body = response.getPrintStream();
-            body.println(pa
+            body.println(parse(text));
+ 
