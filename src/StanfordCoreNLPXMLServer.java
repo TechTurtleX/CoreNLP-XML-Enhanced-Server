@@ -69,4 +69,4 @@ public class StanfordCoreNLPXMLServer implements Container {
             body.println(parse(text));
             body.close();
 
-            long time2 = System.cur
+            long time2 = System.currentTimeMill
