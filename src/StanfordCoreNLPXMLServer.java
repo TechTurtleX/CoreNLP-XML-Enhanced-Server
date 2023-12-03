@@ -67,4 +67,6 @@ public class StanfordCoreNLPXMLServer implements Container {
             String text = request.getQuery().get("text");  
             PrintStream body = response.getPrintStream();
             body.println(parse(text));
-            body.cl
+            body.close();
+
+      
