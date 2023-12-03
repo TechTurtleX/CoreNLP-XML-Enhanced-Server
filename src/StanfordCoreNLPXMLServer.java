@@ -69,4 +69,4 @@ public class StanfordCoreNLPXMLServer implements Container {
             body.println(parse(text));
             body.close();
 
-      
+            long ti
