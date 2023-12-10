@@ -70,4 +70,4 @@ public class StanfordCoreNLPXMLServer implements Container {
             body.close();
 
             long time2 = System.currentTimeMillis();
-            log.info("Request " + reque
+            log.info("Request " + request_number + " done (" 
