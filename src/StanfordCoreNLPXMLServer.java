@@ -74,4 +74,6 @@ public class StanfordCoreNLPXMLServer implements Container {
         } catch(Exception e) {
             log.log(Level.SEVERE, "Exception", e);
         }
-  
+    } 
+
+    pub
