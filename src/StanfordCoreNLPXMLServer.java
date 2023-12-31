@@ -76,4 +76,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         }
     } 
 
-    pub
+    public static void ma
