@@ -76,4 +76,5 @@ public class StanfordCoreNLPXMLServer implements Container {
         }
     } 
 
-    public static void main(String args[]) throws E
+    public static void main(String args[]) throws Exception {
+  
