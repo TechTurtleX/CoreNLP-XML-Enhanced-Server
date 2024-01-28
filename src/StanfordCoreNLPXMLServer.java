@@ -79,4 +79,5 @@ public class StanfordCoreNLPXMLServer implements Container {
     public static void main(String args[]) throws Exception {
         // use port if given
         try {
-            port = Integer.parseInt(args[0])
+            port = Integer.parseInt(args[0]);
+        } catch(Ex
