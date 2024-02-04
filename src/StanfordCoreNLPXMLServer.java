@@ -81,4 +81,5 @@ public class StanfordCoreNLPXMLServer implements Container {
         try {
             port = Integer.parseInt(args[0]);
         } catch(Exception e) {
-            // silently keep port at 808
+            // silently keep port at 8080
+     
