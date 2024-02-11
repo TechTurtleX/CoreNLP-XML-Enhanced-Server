@@ -84,4 +84,4 @@ public class StanfordCoreNLPXMLServer implements Container {
             // silently keep port at 8080
         }
 
-        // initialize the Stanf
+        // initialize the Stanford Core NLP
