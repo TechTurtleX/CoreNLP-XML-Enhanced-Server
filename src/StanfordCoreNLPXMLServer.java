@@ -88,4 +88,5 @@ public class StanfordCoreNLPXMLServer implements Container {
         pipeline = new StanfordCoreNLP();
 
         // start the server
-        Container container = new StanfordCoreNL
+        Container container = new StanfordCoreNLPXMLServer();
+  
