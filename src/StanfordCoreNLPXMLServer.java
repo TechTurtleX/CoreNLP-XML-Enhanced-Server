@@ -89,4 +89,4 @@ public class StanfordCoreNLPXMLServer implements Container {
 
         // start the server
         Container container = new StanfordCoreNLPXMLServer();
-  
+        Server se
