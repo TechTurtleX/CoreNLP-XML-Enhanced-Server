@@ -90,4 +90,5 @@ public class StanfordCoreNLPXMLServer implements Container {
         // start the server
         Container container = new StanfordCoreNLPXMLServer();
         Server server = new ContainerServer(container);
-        Connection connection = new SocketConn
+        Connection connection = new SocketConnection(server);
+       
