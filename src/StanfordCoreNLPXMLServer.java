@@ -92,4 +92,6 @@ public class StanfordCoreNLPXMLServer implements Container {
         Server server = new ContainerServer(container);
         Connection connection = new SocketConnection(server);
         SocketAddress address = new InetSocketAddress(port);
-        connection.connect(addres
+        connection.connect(address);
+
+        log.inf
