@@ -94,4 +94,4 @@ public class StanfordCoreNLPXMLServer implements Container {
         SocketAddress address = new InetSocketAddress(port);
         connection.connect(address);
 
-        log.inf
+        log.info("Initialized serv
