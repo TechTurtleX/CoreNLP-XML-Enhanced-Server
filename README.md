@@ -21,3 +21,21 @@ The server will be listening at <http://localhost:8080>. The text you want to an
     <sentences>
       <sentence id=\"1\">
         <tokens>
+          <token id=\"1\">
+            <word>Hello</word>
+            <lemma>hello</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>UH</POS>
+            <NER>O</NER>
+          </token>
+          <token id=\"2\">
+            <word>world</word>
+            <lemma>world</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id=\"3\">
+            <word>!</word>
