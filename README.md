@@ -39,3 +39,18 @@ The server will be listening at <http://localhost:8080>. The text you want to an
           </token>
           <token id=\"3\">
             <word>!</word>
+            <lemma>!</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (VP (NP (INTJ (UH Hello)) (NP (NN world)))) (. !))) </parse>
+        <dependencies type=\"basic-dependencies\">
+          <dep type=\"root\">
+            <governor idx=\"0\">ROOT</governor>
+            <dependent idx=\"2\">world</dependent>
+          </dep>
+          <dep type=\"discourse\">
+            <governor idx=\"2\">world</governor>
