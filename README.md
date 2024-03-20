@@ -54,3 +54,22 @@ The server will be listening at <http://localhost:8080>. The text you want to an
           </dep>
           <dep type=\"discourse\">
             <governor idx=\"2\">world</governor>
+            <dependent idx=\"1\">Hello</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type=\"collapsed-dependencies\">
+          <dep type=\"root\">
+            <governor idx=\"0\">ROOT</governor>
+            <dependent idx=\"2\">world</dependent>
+          </dep>
+          <dep type=\"discourse\">
+            <governor idx=\"2\">world</governor>
+            <dependent idx=\"1\">Hello</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type=\"collapsed-ccprocessed-dependencies\">
+          <dep type=\"root\">
+            <governor idx=\"0\">ROOT</governor>
+            <dependent idx=\"2\">world</dependent>
+          </dep>
+          <dep type=\"discourse\">
