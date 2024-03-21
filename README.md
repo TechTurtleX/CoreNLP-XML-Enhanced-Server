@@ -73,3 +73,19 @@ The server will be listening at <http://localhost:8080>. The text you want to an
             <dependent idx=\"2\">world</dependent>
           </dep>
           <dep type=\"discourse\">
+            <governor idx=\"2\">world</governor>
+            <dependent idx=\"1\">Hello</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>
+```
+
+Note you can also try this [online](http://nlp.stanford.edu:8080/corenlp/process) at Stanford University. Make sure you choose \"XML\" as the output format. The output you get there only slightly varies from the XML here.
+
+## Installation
+
+1. Clone the repository:
+    
