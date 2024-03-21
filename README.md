@@ -89,3 +89,21 @@ Note you can also try this [online](http://nlp.stanford.edu:8080/corenlp/process
 
 1. Clone the repository:
     
+        git clone https://github.com/TechTurtleX/CoreNLP-XML-Enhanced-Server.git
+
+2. Download and install the third party libraries:
+    
+        cd CoreNLP-XML-Enhanced-Server
+        ant libs
+
+3. Compile the JAR file:
+
+        ant jar
+
+4. Run the server:
+
+        ant run
+
+5. The server is now waiting at <http://localhost:8080> for HTTP POST requests. Note the initialization can take a few minutes, as various modules and resources of Stanford CoreNLP need to be loaded.
+
+    You can also select a port:
