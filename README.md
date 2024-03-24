@@ -116,3 +116,19 @@ Note you can also try this [online](http://nlp.stanford.edu:8080/corenlp/process
 - [Apache Ant](http://ant.apache.org)
 
 ## Third Party Libraries
+
+CoreNLP XML Enhanced Server employs the following third party libraries:
+
+- [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml), a suite of core NLP tools
+- [Simple](http://www.simpleframework.org), a Java-based HTTP engine
+
+The libraries can be fetched and installed using the ant target `libs` (check [Installation](#installation)).
+
+## License
+
+- [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) is licensed under the [GNU General Public License (v2 or later)](http://www.gnu.org/licenses/gpl-2.0.html).
+- [Simple](http://www.simpleframework.org) is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+![GNU GPL v3](http://www.gnu.org/graphics/gplv3-127x51.png \"GNU GPL v3\")
+
+Due to compatibility issues as given in [GNU.org](http://www.gnu.org/licenses/license-list.html) and [Apache.org](http://www.apache.org/licenses/GPL-compatibility.html), CoreNLP XML Enhanced Server is licensed under the [**GNU General Public License Version 3**](http://www.gnu.org/licenses/gpl-3.0.html).
